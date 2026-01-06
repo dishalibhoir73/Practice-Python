@@ -71,11 +71,3 @@ http://127.0.0.1:8000/docs
 ```
 
 ---
-
-## Author
-
-Dishali Bhoir
-
----
-
-This is **assignment-ready** and mentor-friendly.
