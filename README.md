@@ -27,6 +27,7 @@ A basic CRUD (Create, Read, Update, Delete) REST API built using **FastAPI** and
 ├── models/
 ├── schemas/
 ├── config/
+├── tests/
 └── README.md
 ```
 
@@ -63,8 +64,6 @@ uvicorn main:app --reload
 ```
 
 ## API Docs
-
-Swagger UI:
 
 ```
 http://127.0.0.1:8000/docs
