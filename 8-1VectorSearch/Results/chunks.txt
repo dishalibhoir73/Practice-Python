@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "text": "Company Name: NovaTech Solutions\n\nLeave Policy:\nEmployees are entitled to 18 paid leaves per year, i"
+  },
+  {
+    "id": 1,
+    "text": "e entitled to 18 paid leaves per year, including casual and sick leave.\nUnused leaves cannot be carr"
+  },
+  {
+    "id": 2,
+    "text": "sick leave.\nUnused leaves cannot be carried forward to the next year.\nPrior approval from the report"
+  },
+  {
+    "id": 3,
+    "text": "ext year.\nPrior approval from the reporting manager is required for planned leaves.\n\nWork From Home "
+  },
+  {
+    "id": 4,
+    "text": "red for planned leaves.\n\nWork From Home Policy:\nEmployees may work from home up to 2 days per week w"
+  },
+  {
+    "id": 5,
+    "text": "y work from home up to 2 days per week with manager approval.\nWFH is subject to performance and role"
+  },
+  {
+    "id": 6,
+    "text": ".\nWFH is subject to performance and role requirements.\nEmployees must be available during core worki"
+  },
+  {
+    "id": 7,
+    "text": "yees must be available during core working hours.\n\nWorking Hours Policy:\nStandard working hours are "
+  },
+  {
+    "id": 8,
+    "text": "ours Policy:\nStandard working hours are from 9:30 AM to 6:30 PM, Monday to Friday.\nEmployees are exp"
+  },
+  {
+    "id": 9,
+    "text": " PM, Monday to Friday.\nEmployees are expected to log at least 8 hours of productive work per day.\n\nC"
+  },
+  {
+    "id": 10,
+    "text": "t 8 hours of productive work per day.\n\nCode of Conduct:\nEmployees must maintain professional behavio"
+  },
+  {
+    "id": 11,
+    "text": "oyees must maintain professional behavior at the workplace.\nHarassment, discrimination, or unethical"
+  },
+  {
+    "id": 12,
+    "text": "Harassment, discrimination, or unethical behavior will result in disciplinary action.\nCompany assets"
+  },
+  {
+    "id": 13,
+    "text": "t in disciplinary action.\nCompany assets must be used responsibly.\n\nAttendance Policy:\nEmployees mus"
+  },
+  {
+    "id": 14,
+    "text": "sibly.\n\nAttendance Policy:\nEmployees must mark daily attendance using the company portal.\nRepeated l"
+  },
+  {
+    "id": 15,
+    "text": "nce using the company portal.\nRepeated late arrivals may impact performance evaluations.\n\nTerminatio"
+  },
+  {
+    "id": 16,
+    "text": "act performance evaluations.\n\nTermination Policy:\nEither party must provide a 30-day notice period b"
+  },
+  {
+    "id": 17,
+    "text": "ty must provide a 30-day notice period before termination.\nImmediate termination may occur in case o"
+  },
+  {
+    "id": 18,
+    "text": "mmediate termination may occur in case of policy violations.\n\nData Security Policy:\nEmployees must n"
+  },
+  {
+    "id": 19,
+    "text": "\n\nData Security Policy:\nEmployees must not share confidential company data with external parties.\nUs"
+  },
+  {
+    "id": 20,
+    "text": "l company data with external parties.\nUse of unauthorized storage devices is strictly prohibited.\n"
+  },
+  {
+    "id": 21,
+    "text": "orage devices is strictly prohibited.\n"
+  }
+]
